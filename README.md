@@ -2,10 +2,10 @@
 
 <h2> 🔒 Cybersecurity Projects:</h2>
 
-- <b>Detection & Monitoring Lab</b>
-  - Lab Demos(https://#)
 - <b>Active Directory</b>
   - [Image Analysis Middleware](https://#)
+- <b>Detection & Monitoring Lab</b>
+  - [Lab Demos](https://#)
 - <b>Azure SIEM</b>
   - [Image Analysis Middleware](https://#)
 
