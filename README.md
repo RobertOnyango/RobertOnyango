@@ -1,8 +1,8 @@
-<h1>Hi, I'm Robert! <br/><a href="https://github.com/RobertOnyango">Programmer</a> & <a href="https://github.com/RobertOnyango">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Robert! <br/><a href="https://github.com/RobertOnyango">CyberSecurity Professional & </a> & <a href="https://github.com/RobertOnyango">Programmer</a> </h1>
 
 <h2> 🔒 Cybersecurity Projects:</h2>
 
-- <b>Active Directory</b>
+- <b>Active Directory Lab</b>
   - [Image Analysis Middleware](https://#)
 - <b>Detection & Monitoring Lab</b>
   - [Lab Demos](https://#)
