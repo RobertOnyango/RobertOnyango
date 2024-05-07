@@ -2,7 +2,7 @@
 
 <h2> 🔒 Cybersecurity Projects:</h2>
 
-- <b>[Active Directory Home Lab: </b>PowerShell Script automating the addition of 1,000+ users in the Windows Domain](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain)
+- <b>[Active Directory Home Lab: </b> PowerShell Script automating the addition of 1,000+ users in the Windows Domain](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain)
 - <b>Azure SIEM</b>
   - [Image Analysis Middleware](https://#)
 - <b>Detection & Monitoring Lab</b>
