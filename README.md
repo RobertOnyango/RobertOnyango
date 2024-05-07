@@ -1,4 +1,4 @@
-<h1>Hi, I'm Robert! </h1><br/><h2><a href="https://github.com/RobertOnyango">I am a CyberSecurity Professional</a></h2>
+<h1>Hi, I'm Robert! </h1><h2><a href="https://github.com/RobertOnyango">I am a CyberSecurity Professional</a></h2>
 
 <h2> 🔒 Cybersecurity Projects:</h2>
 
