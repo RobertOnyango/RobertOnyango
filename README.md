@@ -5,7 +5,10 @@
 - [<b>Active Directory Home Lab:</b>](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain) PowerShell Script automating the addition of 1,000+ users in the Windows Domain
 - [<b>Azure SIEM:</b>](https://#) Image Analysis Middleware
 - [<b>Detection & Monitoring Lab</b>:](https://#) Home lab simulating...
+Find a couple of examples of the various scenarios I run the Detection & Monitoring Lab below.
   - Lab Scenario 1: [CSFR Script](https://#)
+  - Lab Scenario 2: [CSFR Script](https://#)
+  - Lab Scenario 3: [CSFR Script](https://#)
 
 <h2> 👨‍💻 Software Development Projects:</h2>
 
