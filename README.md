@@ -3,11 +3,11 @@
 <h2> 🔒 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Lab</b>
+  - [PowerShell Script Automation to add users](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain)
+- <b>Azure SIEM</b>
   - [Image Analysis Middleware](https://#)
 - <b>Detection & Monitoring Lab</b>
   - [Lab Demos](https://#)
-- <b>Azure SIEM</b>
-  - [Image Analysis Middleware](https://#)
 
 <h2> 👨‍💻 Software Development Projects:</h2>
 
