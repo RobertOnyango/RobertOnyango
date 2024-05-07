@@ -1,8 +1,9 @@
-<h1>Hi, I'm Robert! <br/><a href="https://github.com/RobertOnyango">CyberSecurity Professional & </a> & <a href="https://github.com/RobertOnyango">Programmer</a> </h1>
+<h1>Hi, I'm Robert! <br/><a href="https://github.com/RobertOnyango">CyberSecurity Professional</h1>
 
 <h2> 🔒 Cybersecurity Projects:</h2>
 
 - [<b>Active Directory Home Lab:</b>](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain) PowerShell Script automating the addition of 1,000+ users in the Windows Domain
+  
 <!--
 - [<b>Azure SIEM:</b>](https://#) Image Analysis Middleware
 - [<b>Detection & Monitoring Lab</b>:](https://#) Home lab simulating...<br>
@@ -10,8 +11,9 @@ Find a couple of examples of the various scenarios I run the Detection & Monitor
   - Lab Scenario 1: [CSFR Script](https://#)
   - Lab Scenario 2: [CSFR Script](https://#)
   - Lab Scenario 3: [CSFR Script](https://#)
-  -->
-
+-->
+  
+<!--
 <h2> 👨‍💻 Software Development Projects:</h2>
 
 <h3>Python</h3>
@@ -28,6 +30,7 @@ Find a couple of examples of the various scenarios I run the Detection & Monitor
 
 - <b>EMR - Electronic Medical Records (AlgoExpert)</b>
   - [Laravel and React Implementation](https://github.com/RobertOnyango/EMR)
+-->
 
 <h2> 📝 Medium Articles and Take throughs</h2>
 
