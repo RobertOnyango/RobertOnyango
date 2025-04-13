@@ -1,8 +1,9 @@
-<h1>Hi, I'm Robert! <br><a href="https://github.com/RobertOnyango">I am a CyberSecurity Professional.</a></h1>
+<h1>Hi, my name is Robert! <br><a href="https://github.com/RobertOnyango">I am a Cloud Engineer and Cybersecurity Specialist.</a></h1>
 
 <h2> 🔒 Cybersecurity Projects:</h2>
 
-- [<b>Active Directory Home Lab:</b>](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain) PowerShell Script automating the addition of 1,000+ users in the Windows Domain
+- [Active Directory Home Lab](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain): PowerShell Script automating the addition of 1,000+ users in the Windows Domain
+- [Azure Honeypot & SOC Home Lab](https://github.com/RobertOnyango/Azure-Honeypot-and-SOC-Home-Lab): Repository containing Threat Detection tools such as Data Collection Rules, Sentinel Analytic Rules, and Geo Maps configuration for Cybersecurity Threat Visualization.
   
 <!--
 - [<b>Azure SIEM:</b>](https://#) Image Analysis Middleware
@@ -13,14 +14,14 @@ Find a couple of examples of the various scenarios I run the Detection & Monitor
   - Lab Scenario 3: [CSFR Script](https://#)
 -->
   
-<!--
+
 <h2> 👨‍💻 Software Development Projects:</h2>
 
 <h3>Python</h3>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
- 
+- <b>100 days of Python (Udemy)</b>
+  - [Python Fundamentals Coursework and Porfolio Projects](https://github.com/RobertOnyango/100-Days-of-Code---Python)
+<!--
 <h3>JavaScript</h3>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -35,6 +36,11 @@ Find a couple of examples of the various scenarios I run the Detection & Monitor
 <h2> 📝 Medium Articles and Take throughs</h2>
 
 - [Windows Active Directory Home Lab simulating an Enterprise environment](https://medium.com/@robertmark94/windows-active-directory-home-lab-simulating-an-enterprise-environment-4bab5f08fb60)
+- [Building my Cybersecurity Detection and Monitoring Home Lab (7 Part Series)](https://robertmark94.medium.com/cybersecurity-detection-monitoring-lab-609a4f1b8311)
+- [Microsoft Azure Storage: Understand and Implement cloud storage solutions in real-world scenarios](https://robertmark94.medium.com/microsoft-azure-storage-understand-and-implement-cloud-storage-solutions-in-real-world-scenarios-113b920495ad)
+- [Building Azure Virtual Network Infrastructure for Small Businesses: Filtering Web Traffic with NSG Rules by Network Segments](https://robertmark94.medium.com/building-azure-virtual-network-infrastructure-for-small-businesses-filtering-web-traffic-with-nsg-edf610a705ad)
+- [Deploying Azure Monitor to Track and Respond to Security Events Across Windows, Linux VMs, and Cloud Apps](https://robertmark94.medium.com/deploying-azure-monitor-to-track-and-respond-to-security-events-across-windows-linux-vms-and-374a424260cf)
+- [Building and Hardening an Azure Cloud Honeypot: A Journey with Microsoft Sentinel and Live Internet Threats (4 Part Series)](https://robertmark94.medium.com/building-and-hardening-an-azure-honeypot-a-journey-with-microsoft-sentinel-and-live-internet-d3468d349b62)
 
 <!-- 
 <h2> 🤳 Connect with me:</h2>
