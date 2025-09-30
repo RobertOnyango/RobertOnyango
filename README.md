@@ -4,7 +4,7 @@
 🔹 Passionate about SOC operations, detection engineering, and cloud security  
 🔹 Building labs & projects to simulate real-world attacks and defenses 
 
-<h2> 🔒 Cybersecurity Projects:</h2>
+<h2> 🔒 Cybersecurity Projects</h2>
 
 - [Azure Honeypot with Microsoft Sentinel Home Lab](https://github.com/RobertOnyango/Azure-Honeypot-and-SOC-Home-Lab): Repository containing Threat Detection tools such as Data Collection Rules, Sentinel Analytic Rules, and Geo Maps configuration for Cybersecurity Threat Visualization.
 - [Active Directory Home Lab](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain): PowerShell Script automating the addition of 1,000+ users in the Windows Domain
@@ -19,7 +19,7 @@ Find a couple of examples of the various scenarios I run the Detection & Monitor
 -->
   
 
-<h2> 👨‍💻 Software Development Projects:</h2>
+<h2> 👨‍💻 Software Development Projects</h2>
 
 <h3>Python</h3>
 
