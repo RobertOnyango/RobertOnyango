@@ -6,8 +6,8 @@
 
 <h2> 🔒 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain): PowerShell Script automating the addition of 1,000+ users in the Windows Domain
 - [Azure Honeypot & SOC Home Lab](https://github.com/RobertOnyango/Azure-Honeypot-and-SOC-Home-Lab): Repository containing Threat Detection tools such as Data Collection Rules, Sentinel Analytic Rules, and Geo Maps configuration for Cybersecurity Threat Visualization.
+- [Active Directory Home Lab](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain): PowerShell Script automating the addition of 1,000+ users in the Windows Domain
   
 <!--
 - [<b>Azure SIEM:</b>](https://#) Image Analysis Middleware
