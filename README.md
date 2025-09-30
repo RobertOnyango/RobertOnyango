@@ -1,4 +1,8 @@
-<h1>Hi, my name is Robert! <br><a href="https://github.com/RobertOnyango">I am a Cybersecurity Analyst.</a></h1>
+<h1>👋 Hi, I'm Robert Onyango. </h1> <h2>Cybersecurity Analyst | Cloud Security | Threat Detection & Incident Response </h2>
+
+🔹 Skilled in Microsoft Sentinel, Splunk, Security Onion, and Azure Security  
+🔹 Passionate about SOC operations, detection engineering, and cloud security  
+🔹 Building labs & projects to simulate real-world attacks and defenses 
 
 <h2> 🔒 Cybersecurity Projects:</h2>
 
@@ -33,7 +37,7 @@ Find a couple of examples of the various scenarios I run the Detection & Monitor
   - [Laravel and React Implementation](https://github.com/RobertOnyango/EMR)
 -->
 
-<h2> 📝 Medium Articles and Take throughs</h2>
+<h2> 📝 Project Write-ups</h2>
 
 - [Building and Hardening an Azure Cloud Honeypot: A Journey with Microsoft Sentinel and Live Internet Threats (4 Part Series)](https://robertmark94.medium.com/building-and-hardening-an-azure-honeypot-a-journey-with-microsoft-sentinel-and-live-internet-d3468d349b62)
 - [Deploying Azure Monitor to Track and Respond to Security Events Across Windows, Linux VMs, and Cloud Apps](https://robertmark94.medium.com/deploying-azure-monitor-to-track-and-respond-to-security-events-across-windows-linux-vms-and-374a424260cf)
