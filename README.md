@@ -1,8 +1,11 @@
 <h1>👋 Hi, I'm Robert Onyango. </h1> <h2>Cybersecurity Analyst | Cloud Security | Threat Detection & Incident Response </h2>
  
 🔹 Cybersecurity professional specializing in threat detection, incident response, and cloud security
+
 🔹 Experienced in building enterprise-scale home labs using Microsoft Sentinel, Splunk Enterprise, Security Onion, Active Directory, and Microsoft Azure
+
 🔹 Developing detection content, attack simulations, and investigative workflows aligned to real-world SOC operations
+
 🔹 Passionate about transforming attack techniques into actionable detections and security monitoring use cases
 
 <h2> 🔒 Cybersecurity Projects</h2>
