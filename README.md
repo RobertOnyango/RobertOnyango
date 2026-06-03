@@ -1,12 +1,13 @@
 <h1>👋 Hi, I'm Robert Onyango. </h1> <h2>Cybersecurity Analyst | Cloud Security | Threat Detection & Incident Response </h2>
-
-🔹 Skilled in Microsoft Sentinel, Splunk, Security Onion, and Azure Security  
-🔹 Passionate about SOC operations, detection engineering, and cloud security  
-🔹 Building labs & projects to simulate real-world attacks and defenses 
+ 
+🔹 Cybersecurity professional specializing in threat detection, incident response, and cloud security
+🔹 Experienced in building enterprise-scale home labs using Microsoft Sentinel, Splunk Enterprise, Security Onion, Active Directory, and Microsoft Azure
+🔹 Developing detection content, attack simulations, and investigative workflows aligned to real-world SOC operations
+🔹 Passionate about transforming attack techniques into actionable detections and security monitoring use cases
 
 <h2> 🔒 Cybersecurity Projects</h2>
 
-- [Active Directory Attack and Detection Lab](https://github.com/RobertOnyango/Active-Directory-Attack-and-Detection-Lab): This repository has splunk queries, suricata rules, and pcap files for common AD attacks.
+- [Enterprise Active Directory Attack Detection Lab](https://github.com/RobertOnyango/Active-Directory-Attack-and-Detection-Lab): This repository features Splunk, Security Onion, Suricata, Wireshark, MITRE ATT&CK mapping, detection engineering content, and incident investigation workflows.
 - [Azure Honeypot with Microsoft Sentinel Home Lab](https://github.com/RobertOnyango/Azure-Honeypot-and-SOC-Home-Lab): Repository containing Threat Detection tools such as Data Collection Rules, Sentinel Analytic Rules, and Geo Maps configuration for Cybersecurity Threat Visualization.
 - [Active Directory Home Lab](https://github.com/RobertOnyango/AD_Add-Users-Windows-Domain): PowerShell Script automating the addition of 1,000+ users in the Windows Domain
   
